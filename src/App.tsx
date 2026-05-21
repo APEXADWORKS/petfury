@@ -175,7 +175,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="text-md sm:text-lg font-bold tracking-tight text-slate-800 font-sans leading-none flex items-center gap-1.5 matches-brand">
-                PawsomeCare <span className="text-slate-400 font-normal">Hub</span>
+                PetFury <span className="text-slate-400 font-normal">Hub</span>
               </h1>
               <p className="text-[9px] text-slate-400 font-mono tracking-wider uppercase mt-0.5">
                 Healthy Companions • Expert Guidance
@@ -290,7 +290,7 @@ export default function App() {
               <PawPrint className="w-4 h-4" />
             </div>
             <div>
-              <p className="text-xs font-bold text-slate-800">PawsomeCare Hub</p>
+              <p className="text-xs font-bold text-slate-800">PetFury Hub</p>
               <p className="text-[10px] text-slate-400 font-mono">© 2026 Companion manual. All rights reserved.</p>
             </div>
           </div>
