@@ -1,0 +1,6 @@
+{
+  "name": "Pet Care & Training Hub",
+  "description": "An interactive hub for pet health and training featuring expert dog and cat blogs, profile trackers, calorie calculators, and a custom Gemini-powered AI Pet Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
